@@ -8,3 +8,5 @@ Here are relevant repos
 * [historical repo with tons of configuration stuff in it](https://github.com/JaredVogt/.config)
 
 
+### Security
+To get all security stuff up and happy need to create a .gitconfig and also setup keys in .ssh? That previous sentance needs to be verified - details need to be figured out. 
