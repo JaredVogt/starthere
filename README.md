@@ -1,5 +1,5 @@
 # starthere
-Start here to get oriented with all repos and technical things. I am using github as my starting point to setup machines, keep track of external datasources. Access this directly at [fancy url](http://test.com]
+Start here to get oriented with all repos and technical things. I am using github as my starting point to setup machines, keep track of external datasources. Access this directly at [fancy url](https://place.test.com]
 
 Here are relevant repos
 * [bitbar extensions](https://github.com/JaredVogt/bitbar)
