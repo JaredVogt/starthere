@@ -3,9 +3,9 @@ Start here to get oriented with all repos and technical things. I am using githu
 
 #### To get rolling
 1. `git clone https://github.com/JaredVogt/dotfiles` ([dotfiles](https://github.com/JaredVogt/dotfiles)) and follow instructions 
-1. Clone [vim setup](https://github.com/JaredVogt/vimrc) 
-2. clone [bitbar](https://github.com/JaredVogt/bitbar)
-3. clone [utilities](https://github.com/JaredVogt/utilities)
+1. `git clone https://github.com/JaredVogt/vimrc` ([vim setup](https://github.com/JaredVogt/vimrc)) 
+2. `git clone https://github.com/JaredVogt/bitbar` ([bitbar](https://github.com/JaredVogt/bitbar))
+3. `git clone https://github.com/JaredVogt/utilities` ([utilities](https://github.com/JaredVogt/utilities))
 4. get dropbox up and running
 5. restore mackup
 
