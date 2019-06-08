@@ -2,7 +2,7 @@
 Start here to get oriented with all repos and technical things. I am using github as my starting point to setup machines, keep track of external datasources. Access this directly at [install.coffee](https://install.coffee).
 
 #### To get rolling
-1. Clone [dotfiles](https://github.com/JaredVogt/dotfiles) and follow instructions 
+1. `git clone https://github.com/JaredVogt/dotfiles` ([dotfiles](https://github.com/JaredVogt/dotfiles)) and follow instructions 
 1. Clone [vim setup](https://github.com/JaredVogt/vimrc) 
 2. clone [bitbar](https://github.com/JaredVogt/bitbar)
 3. clone [utilities](https://github.com/JaredVogt/utilities)
