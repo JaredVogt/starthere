@@ -13,7 +13,7 @@ Start here to get oriented with all repos and technical things. I am using githu
 ==================== Cruft to cleanup ===================================
 ### Some additional articles (these need to be written)
 
-* Legacy Repos[Kicket](https://github.com/JaredVogt/kickit), [.config](https://github.com/JaredVogt/.config)
+* Legacy Repos - [kickit](https://github.com/JaredVogt/kickit), [.config](https://github.com/JaredVogt/.config)
 * how I use dropbox
 * my policy on backups and how they are done
 * 
