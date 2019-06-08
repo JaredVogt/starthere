@@ -10,4 +10,4 @@ Access this directly at [install.coffee](https://install.coffee).
 5. restore mackup
 
 
-[More Info]()
+[More Info](https://github.com/JaredVogt/starthere/blob/master/moreinfo.md)
