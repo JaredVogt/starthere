@@ -1,5 +1,5 @@
 ### Additional public file locations
-* [Dropbox](db.install.coffee) (for example, Keyboard Maestro macros)
+* [Dropbox](http://db.install.coffee) (for example, Keyboard Maestro macros)
 
 ### Some additional articles (these need to be written)
 
