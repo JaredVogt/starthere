@@ -1,3 +1,6 @@
+### Additional public file locations
+[Dropbox](https://db.install.coffee)
+
 ### Some additional articles (these need to be written)
 
 * Legacy Repos - [kickit](https://github.com/JaredVogt/kickit), [.config](https://github.com/JaredVogt/.config)
