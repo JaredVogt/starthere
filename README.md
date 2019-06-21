@@ -8,6 +8,8 @@ Access this directly at [install.coffee](https://install.coffee).
 3. `git clone https://github.com/JaredVogt/utilities ~/projects/utilities` ([utilities](https://github.com/JaredVogt/utilities))
 4. get dropbox up and running
 5. restore mackup
+7. `~/dotfiles/macos/createSymlinks.sh`
+8. `~/dotfiles/macos/quicklinks.sh`
 
 
 [More Info](https://github.com/JaredVogt/starthere/blob/master/moreinfo.md)
