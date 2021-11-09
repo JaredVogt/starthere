@@ -1,3 +1,5 @@
+https://community.inkdrop.app/note/dbdc214e35dba79a8472540ffc93db5b/note:rvdxD5bdH
+
 ### Additional public file locations
 * [Dropbox](http://db.install.coffee) (for example, Keyboard Maestro macros)
 
