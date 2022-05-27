@@ -1,6 +1,6 @@
 # starthere ([install.coffee](http://install.coffee)).
-Step 1, hit [inkdrop instructions](https://community.inkdrop.app/note/dbdc214e35dba79a8472540ffc93db5b/note:rvdxD5bdH).
-Step 2, [.dotfiles](https://github.com/JaredVogt/.dotfiles)
+1. hit [inkdrop instructions](https://community.inkdrop.app/note/dbdc214e35dba79a8472540ffc93db5b/note:rvdxD5bdH).
+2. [.dotfiles](https://github.com/JaredVogt/.dotfiles)
 
 #### clone and follow instructions
 1. `git clone https://github.com/JaredVogt/dotfiles ~/dotfiles` ([dotfiles](https://github.com/JaredVogt/dotfiles))
